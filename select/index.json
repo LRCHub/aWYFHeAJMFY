@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "スーパーノヴァ",
+  "base_artist": "r-906",
+  "createdAt": "2026-02-19T12:52:45.333843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スーパーノヴァ",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_スーパーノヴァ_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スーパーノヴァ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_スーパーノヴァ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "チャイルドフッド・スーパーノヴァ",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/03_チャイルドフッド・スーパーノヴァ_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワールズエンド・スーパーノヴァ",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/04_ワールズエンド・スーパーノヴァ_くるり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワールズエンド・スーパーノヴァ (ベスト オブ くるり Remastered)",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/05_ワールズエンド・スーパーノヴァ_(ベスト_オブ_くるり_Remastered)_くるり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ワールズエンド・スーパーノヴァ",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/06_ワールズエンド・スーパーノヴァ_くるり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スーパーノヴァ",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/07_スーパーノヴァ_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スーパーノヴァ",
+      "artist": "Mamoru Miyano",
+      "has_synced": true,
+      "path": "select/08_スーパーノヴァ_Mamoru_Miyano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スーパーノヴァ",
+      "artist": "宮野真守",
+      "has_synced": true,
+      "path": "select/09_スーパーノヴァ_宮野真守.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スーパーノヴァ",
+      "artist": "r-906, 音街ウナ",
+      "has_synced": false,
+      "path": "select/pl_01_スーパーノヴァ_r-906,_音街ウナ.txt"
+    }
+  ]
+}
